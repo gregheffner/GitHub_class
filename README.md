@@ -16,3 +16,5 @@ To view the presentations, you can download the `.pptx` files and open them usin
 These presentations are designed to give a broad overview and are suitable for audiences who are new to GitHub or looking to understand its advanced features.
 
 Feel free to use and share these presentations as needed.
+
+For more information please check out https://greg.heffner.live/image/pages/2024/July/Pi-Hole.html
