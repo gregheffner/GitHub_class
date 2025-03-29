@@ -17,4 +17,4 @@ These presentations are designed to give a broad overview and are suitable for a
 
 Feel free to use and share these presentations as needed.
 
-For more information please check out https://greg.heffner.live/image/pages/2024/July/Pi-Hole.html
+For more information please check out https://greg.heffner.live/image/pages/2024/July/GitHub.html
